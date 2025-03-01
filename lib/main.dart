@@ -16,7 +16,7 @@ void main() async {
   if (kIsWeb) {
     await Firebase.initializeApp(
       options: const FirebaseOptions(
-        apiKey: "AIzaSyAjxgNDVjV_v0sEvPpJ6GvY_PtyCjVpY5g",
+        apiKey: "Insert API",
         authDomain: "altheas-pizza-hauz.firebaseapp.com",
         projectId: "altheas-pizza-hauz",
         storageBucket: "altheas-pizza-hauz.appspot.com",
